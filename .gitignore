@@ -1,0 +1,5 @@
+*.csv
+job_postings_fact.csv
+.DS_Store
+.vscode/
+csv_files/
